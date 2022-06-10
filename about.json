@@ -1,0 +1,20 @@
+{
+  "full_name": "Hamza Imran",
+  "email": "hamzaimrann98@gmail.com",
+  "website": "www.facebook.com",
+  "address": "House 15643, Comsats",
+  "profile_pic": "https://images.unsplash.com/photo-1654512541705-4652c8649eb2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+  "social": "www.facebook.com",
+  "education": [
+    { "id": "1", "title": "O levels", "finishYear": "2015" },
+    { "id": "2", "title": "A levels", "finishYear": "2017" },
+  ],
+    "work_experience": [
+    { "id": "1", "title": "InfoTech", "JoiningYear": "2020" },
+    { "id": "2", "title": "DevSinc", "JoiningYear": "2021" },
+  ],
+    "skills": [
+    { "id": "1", "title": "React Native", "releaseYear": "1977" },
+    { "id": "2", "title": "Flutter", "releaseYear": "1985" },
+  ],
+}
