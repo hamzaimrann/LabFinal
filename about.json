@@ -16,5 +16,5 @@
     "skills": [
     { "id": "1", "title": "React Native", "releaseYear": "1977" },
     { "id": "2", "title": "Flutter", "releaseYear": "1985" },
-  ],
+  ]
 }
